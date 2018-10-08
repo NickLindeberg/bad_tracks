@@ -16,5 +16,7 @@
 
  body {
    color: lightblue;
-   background: radial-gradient(tomato, blue)
+   text-align: center;
+   background: radial-gradient(tomato, blue);
+   background-image: url("giphy.gif");
  }
