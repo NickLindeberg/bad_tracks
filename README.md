@@ -1,24 +1,8 @@
-# README
+##REST, Routing, and Controllers in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##Learning Goals
+ - explain the purpose of the routes.rb file
+ - interpret the output of rake routes
+ - explain the connection between routes.rb and controller files
+ - create routes by hand
+ - create routes using resources :songs
