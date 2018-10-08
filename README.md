@@ -1,4 +1,4 @@
-## REST, Routing, and Controllers in Rails ##
+# REST, Routing, and Controllers in Rails
 
 ## Learning Goals ##
  - explain the purpose of the routes.rb file
