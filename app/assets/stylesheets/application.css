@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+   color: lightblue;
+   background: radial-gradient(tomato, blue)
+ }
